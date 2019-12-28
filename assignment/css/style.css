@@ -70,6 +70,7 @@ nav li a{
 
 /*style for main specifies a block display, text properties, margins, padding, rounded border and shadow*/
 main {
+  width: 100vw;
   display: block;
   font-family: verdana, arial, sans-serif;
   font-size: 1em;
